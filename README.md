@@ -30,7 +30,7 @@ Clear documentation and comments within the source code.
 
 How to Run
 Clone the repository:
-git clone https://github.com/your-username/your-repository-name.git](https://github.com/NickChronis2004/Complex-Board-Game.git
+git clone https://github.com/NickChronis2004/Complex-Board-Game.git
 
 Navigate to the src directory.
 
